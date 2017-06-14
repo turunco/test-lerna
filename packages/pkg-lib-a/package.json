@@ -1,15 +1,14 @@
 {
-    "name": "pkg-lib-a",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "pkg-lib-b": "^1.0.0"
-    }
+  "name": "pkg-lib-a",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg-lib-b": "^1.1.0"
+  }
 }
